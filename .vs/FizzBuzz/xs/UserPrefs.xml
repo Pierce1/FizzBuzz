@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{2F0D9F0C-58FD-44FD-8BEA-9A212510813E}|Default">
+  <MonoDevelop.Ide.ItemProperties.FizzBuzz PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FizzBuzz Status">
+    <Files>
+      <File FileName="FizzBuzzClient/IPersonClient.cs" Line="8" Column="9" />
+      <File FileName="FizzBuzzClient/PersonClient.cs" Line="7" Column="38" />
+      <File FileName="FizzBuzzUnitTests/PersonClientTests.cs" Line="8" Column="11" />
+      <File FileName="FizzBuzzService/PersonService.cs" Line="14" Column="30" />
+      <File FileName="FizzBuzzService/Program.cs" Line="1" Column="1" />
+      <File FileName="FizzBuzzConsoleApplication/Program.cs" Line="9" Column="13" />
+      <File FileName="FizzBuzzUnitTests/PersonClientTests.cs" Line="13" Column="2" />
+      <File FileName="FizzBuzzClient/PersonClient.cs" Line="5" Column="26" />
+      <File FileName="FizzBuzzUnitTests/PersonRepositoryTests.cs" Line="12" Column="6" />
+      <File FileName="FizzBuzzUnitTests/PersonServiceTests.cs" Line="8" Column="9" />
+      <File FileName="FizzBuzzUnitTests/ConsoleApplicationTests.cs" Line="5" Column="18" />
+      <File FileName="FizzBuzzModels/PersonModel.cs" Line="1" Column="1" />
+      <File FileName="FizzBuzzRepository/IPersonRepository.cs" Line="1" Column="1" />
+      <File FileName="FizzBuzzRepository/PersonRepository.cs" Line="1" Column="1" />
+      <File FileName="FizzBuzz Status" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FizzBuzz" expanded="True" selected="True">
+            <Node name="FizzBuzzClient" expanded="True" />
+            <Node name="FizzBuzzConsoleApplication" expanded="True" />
+            <Node name="FizzBuzzModels" expanded="True" />
+            <Node name="FizzBuzzRepository" expanded="True" />
+            <Node name="FizzBuzzService" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+            <Node name="FizzBuzzUnitTests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

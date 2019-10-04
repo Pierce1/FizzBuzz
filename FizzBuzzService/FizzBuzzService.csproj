@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="PersonModel.cs" />
+    <Compile Remove="PersonModel.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\FizzBuzzModels\FizzBuzzModels.csproj" />
+    <ProjectReference Include="..\FizzBuzzRepository\FizzBuzzRepository.csproj" />
+  </ItemGroup>
+</Project>
